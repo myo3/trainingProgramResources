@@ -2,7 +2,10 @@
         {
             "fname": "Eric",
             "lname": "Appel",
-            "email": "eric@gmail.com",
+            "email": [
+                "eric@gmail.com",
+                "info@cuappdev.org",
+            ],
             "phone": "(152) 555-5321",
             "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1559294_10205035377430945_1129733074208269684_o.jpg"
         },
