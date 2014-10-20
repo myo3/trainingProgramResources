@@ -1,0 +1,47 @@
+    [
+        {
+            "fname": "Eric",
+            "lname": "Appel",
+            "email": "eric@gmail.com",
+            "phone": "(152) 555-5321",
+            "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1559294_10205035377430945_1129733074208269684_o.jpg"
+        },
+        {
+            "fname": "Lucas",
+            "lname": "Derraugh",
+            "email": "lucas@cuappdev.org",
+            "phone": "(134) 555-1134",
+            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1538820_10201644975678475_4317230643329037845_n.jpg?oh=86070caae354fad99734145019bdb81f&oe=54B87366"
+        },
+        {
+            "fname": "Feifan",
+            "lname": "Zhou",
+            "email": "feifan@tunetap.com",
+            "phone": "(123) 456-5432",
+            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/10387050_665555910165227_2032361056304072307_o.jpg"
+        },
+        {
+            "fname": "Brendan",
+            "lname": "Nunan",
+            "email": [
+                "brendan@nunan.com",
+                "bman@dx.com",
+            ],
+            "phone": "(152) 555-5321",
+            "picture": "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/15099_10200455006490029_1487578515_n.jpg?oh=d3a20cba02dd4716e8a77c8fd3179885&oe=54B18F32&__gda__=1425077718_4f755767b65d7e27be932b08932f5748"
+        },
+        {
+            "fname": "Will",
+            "lname": "Chan",
+            "email": "design@wchan.com",
+            "phone": "(012) 345-4321",
+            "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xaf1/t31.0-8/415762_1893830043131_510251493_o.jpg"
+        },
+        {
+            "fname": "Walker",
+            "lname": "White",
+            "email": "walker@white.com",
+            "phone": "(098) 765-4321",
+            "picture": "http://www.cs.cornell.edu/~wmwhite/images/walker-photo.jpg"
+        }
+    ]
